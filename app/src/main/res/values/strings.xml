@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="add_note">Add note</string>
+    <string name="title_activity_add_note">AddNoteActivity</string>
+    <string name="edit_text">Edit text:</string>
+    <string name="enter_note">Enter note:</string>
+    <string name="low_priority">Low</string>
+    <string name="medium_priority">Medium</string>
+    <string name="high_priority">High</string>
+    <string name="warning_empty">You note is empty!</string>
+</resources>
