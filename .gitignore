@@ -13,3 +13,9 @@
 .externalNativeBuild
 .cxx
 local.properties
+/app/src/androidTest
+/.idea
+/vcs-1
+/.gragle
+
+
