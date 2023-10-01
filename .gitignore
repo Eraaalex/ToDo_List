@@ -14,8 +14,14 @@
 .cxx
 local.properties
 /app/src/androidTest
+/app/src/androidTest
+/app/libs
 /.idea
 /vcs-1
 /.gragle
-
+build.gradle
+gradle.properties
+gradlew
+gradlew.bat
+settings.gradle
 
